@@ -2,7 +2,10 @@
 
 ## 설치한 라이브러리 
 yarn add react-icons styled-components
-
+       
+## 상태관리 
+ContextAPI + useReducer                
+                 
 ## hook 
 - createContext 
 - useContext
