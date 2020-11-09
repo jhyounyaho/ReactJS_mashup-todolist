@@ -7,7 +7,7 @@ yarn add react-icons styled-components
 - createContext 
 - useContext
 - useReducer 
-- useRef 
+- useRef                 
 함수형 컴포넌트 + hook 으로 작업되었습니다.     
    
 ## component
