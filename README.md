@@ -1,5 +1,6 @@
 # Context API를 활용한 TodoList   
-
+![context api img](https://user-images.githubusercontent.com/42309919/98617954-810fa800-2343-11eb-9079-763fc988dc53.png)                    
+                       
 ## 설치한 라이브러리 
 yarn add react-icons styled-components
        
