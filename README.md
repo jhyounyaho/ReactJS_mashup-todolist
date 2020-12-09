@@ -5,7 +5,7 @@
 yarn add react-icons styled-components
        
 ## 상태관리 
-ContextAPI + useReducer                
+ContextAPI + useReducer                   
                  
 ## hook 
 - createContext 
